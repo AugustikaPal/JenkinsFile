@@ -34,5 +34,3 @@ Docker:
 
 Docker is installed on the Jenkins server or agent.
 Jenkins has permissions to run Docker commands.
-
-hello
