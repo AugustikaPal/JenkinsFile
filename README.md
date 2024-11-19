@@ -22,15 +22,4 @@ Displays a message: "Build or Test failed!"
 Prerequisites
 Before running this pipeline, ensure the following:
 
-Jenkins Setup:
 
-Jenkins is installed and running.
-Docker plugin for Jenkins is installed.
-Git Repository:
-
-The pipeline is connected to a valid Git repository.
-The scm in the pipeline points to your repository.
-Docker:
-
-Docker is installed on the Jenkins server or agent.
-Jenkins has permissions to run Docker commands.
