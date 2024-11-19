@@ -16,7 +16,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                sh 'echo "Preparing  tests ..."' // Placeholder for actual test commands
+                sh 'echo "Running tests ..."' // Placeholder for actual test commands
             }
         }
     }
