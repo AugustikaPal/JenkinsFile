@@ -1,4 +1,4 @@
-HI this is the,
+Hello there ,  this is the,
 Jenkins Pipeline with Docker and Node.js
 This README provides an overview of the Jenkins pipeline configured for a project using Node.js with Docker. The pipeline automates the build and test process within a Docker container running Node.js version 14.
 
